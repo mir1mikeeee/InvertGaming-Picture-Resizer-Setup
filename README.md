@@ -2,6 +2,8 @@
 
 Ein einfacher und leistungsstarker Bildresizer, mit dem du PNG- und JPG-Bilder auf eine bestimmte Pixelgröße anpassen kannst. Perfekt, um Bilder in 1:1-Verhältnissen (z. B. 512px x 512px) zu skalieren.
 
+[KLICK MICH FÜR EINE VORSCHAU DES PROGRAMMS](https://i.ibb.co/2gHf1GT/image.png)
+
 ---
 
 ## 🚀 Features
