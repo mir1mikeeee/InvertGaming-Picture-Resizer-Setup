@@ -57,7 +57,7 @@ Nach der Skalierung (z. B. auf 512px x 512px) befinden sich die veränderten Bil
 
 ## Lizenz
 
-Dieses Projekt steht unter der [MIT Lizenz](LICENSE).
+Dieses Projekt steht unter dem [Urheberrecht](LICENSE).
 
 ---
 
